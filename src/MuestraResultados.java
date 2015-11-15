@@ -1,5 +1,5 @@
 public class MuestraResultados {
- 
+
     public static void main(String[] args) {
         System.out.printf("       Tiempo del vector en orden inverso  Tiempo del vector en orden aleatorio\n");
         mostrarResultados(new int[]{1000, 2000, 4000, 8000, 16000, 32000});
